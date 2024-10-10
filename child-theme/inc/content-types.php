@@ -1,0 +1,7 @@
+<?php
+/**
+ * Custom Content Types
+ */
+
+
+?>
